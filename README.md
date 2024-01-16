@@ -1,25 +1,32 @@
-# Stadistical experiments and Significance testing
-Overview
+# Statistics for Data Science
+Welcome to the "Statistical for Data Science" repository – your go-to resource for mastering essential statistical concepts in data science. This repository provides concise code implementations, analyses, and practical exercises, offering a seamless blend of theory and application. Whether you're a beginner seeking a solid foundation or an experienced practitioner aiming to enhance your statistical skills, this repository covers crucial topics like descriptive statistics, hypothesis testing, regression analysis, and more. Elevate your data science journey with clear explanations and hands-on coding. Happy exploring!
 
-## A/B Testing
+## Descriptive Statistics
 
+## Inferential Statistics
+* A/B Testing
+* Hypothesis Tests
+* Resampling
+* Statistical Significance and p-values
+* t-Tests
+* Multiple Testing
+* Degrees of Freedom
+* ANOVA
+* Chi-Square Test
+* Multi-Arm Bandint Algorithm
+* Power and Sample size
 
-## Hypothesis Tests
+## Probability and Distributions
 
-## Resampling
+## Correlation and Multivariate Analysis
 
-## Statistical Significance and p-values
+## Resampling Methods
 
-## t-Tests
+## Time Series Analysis
 
-## Multiple Testing
-
-## Degrees of Freedom
-
-## ANOVA
-
-## Chi-Square Test
-
-## Multi-Arm Bandint Algorithm
-
-## Power and Sample size
+## Programming
+* R
+* Python
+* Julia
+* C++
+* Java
