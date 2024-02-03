@@ -25,7 +25,7 @@ Statistical inference involves making generalizations about populations based on
 * Machine learning and Deep Leraning for times series.
 
 ## Stadistical modeling
-* Statistical Models for Time Series: Autoregressive Models, Moving Average Models, Autoregressive Integrated Average Models
+* **Statistical Models for Time Series**: Autoregressive Models, Moving Average Models, Autoregressive Integrated Average Models
 
 ## Programming
 * R
