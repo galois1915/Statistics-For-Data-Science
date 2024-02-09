@@ -2,9 +2,9 @@
 Welcome to the "Statistical for Data Science" repository – your go-to resource for mastering essential statistical concepts in data science. This repository provides concise code implementations, analyses, and practical exercises, offering a seamless blend of theory and application. Whether you're a beginner seeking a solid foundation or an experienced practitioner aiming to enhance your statistical skills, this repository covers crucial topics like descriptive statistics, hypothesis testing, regression analysis, and more. Elevate your data science journey with clear explanations and hands-on coding. Happy exploring!
 
 Data:
-* [https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset](US Health Insurance)
-* [https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing](Marketing A/B testing)
-* [https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data](Daily climate time series)
+* [US Health Insurance](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
+* [Marketing A/B testing](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
+* [Daily climate time series](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data)
 ## Descriptive Statistics
 
 ## Statistical Experiments
