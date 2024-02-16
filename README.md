@@ -5,6 +5,8 @@ Data:
 * [https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset](US Health Insurance)
 * [https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing](Marketing A/B testing)
 * [https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data](Daily climate time series)
+* [https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees](Drugs A, B, C, X, Y for Decision Trees)
+
 ## Descriptive Statistics
 
 ## Statistical Experiments
